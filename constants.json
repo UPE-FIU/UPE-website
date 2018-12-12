@@ -1,0 +1,9 @@
+/*
+This file contants brandings such as typeface, font, color schemes, guidelines etc..
+*/
+
+{
+guidelines:{}//ordered by pages,
+colors:['']//ordered by indexes,
+typeface:{},
+}
