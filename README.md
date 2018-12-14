@@ -1,6 +1,6 @@
 # UPE-website
-This repository contains official documents and codes for [UPE](upe.cs.fiu.edu)'s wordpress site
-This project/repo is not meant to run as whole, it is a collection of HTML, CSS, JS and PHP sub-parts of our [Enfold](https://kriesi.at/documentation/enfold/) site.
+This repository contains official documents and codes for [UPE](upe.cs.fiu.edu)'s wordpress site <br/>
+This project/repo is not meant to be runned as whole, it is a collection of HTML, CSS, JS and PHP sub-parts of our Wordpress site.
 
 ## Built With
 
