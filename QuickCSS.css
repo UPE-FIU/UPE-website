@@ -1,3 +1,31 @@
 /*
-This documments contains styles which overwrites the defaults styles of the Enfold WordPress theme.
+This documments contains css objects which overwrites the defaults styles of the Enfold child WordPress theme.
+---------------------------------------------------------------------------------------------------
 */
+
+
+/*the code bellow is used to make the large avia buttons responsive on all screen sizes*/
+
+@media only screen and (min-width: 1161px) and (max-width: 1350px) {
+    .avia-button.avia-size-large {
+        min-width: 668px;
+    }
+}
+
+@media only screen and (min-width: 1007px) and (max-width: 1160px) {
+    .avia-button.avia-size-large {
+        min-width: 550px;
+    }
+}
+
+@media only screen and (min-width: 786px) and (max-width: 1006px) {
+    .avia-button.avia-size-large {
+        min-width: 678px;
+    }
+}
+
+@media only screen and (max-width: 785px) {
+    .avia-button.avia-size-large {
+        min-width: 428px;
+    }
+}
